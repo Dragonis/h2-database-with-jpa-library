@@ -62,11 +62,11 @@
 		  <artifactId>jackson-datatype-hibernate5</artifactId>
 		</dependency>
 
-	    <dependency>
+	<!--<dependency>
 	    	<groupId>pl.lublin.zeto</groupId>
 	    	<artifactId>jpa-specification-helper</artifactId>
 	    	<version>0.0.1-SNAPSHOT</version>
-	    </dependency>
+	    </dependency> -->
 
 	    <!--
 		<dependency>
